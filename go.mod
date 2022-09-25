@@ -1,4 +1,4 @@
-module github.com/signintech/gopdf
+module github.com/maxgozou/gopdf
 
 go 1.13
 
